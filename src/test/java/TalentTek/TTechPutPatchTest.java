@@ -1,4 +1,2 @@
-package TalentTek;
-
-public class TTechPutPatchTest {
+package TalentTek;public class TTechPutPatchTest {
 }
